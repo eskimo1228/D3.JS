@@ -1,0 +1,68 @@
+{
+    "picture": "img/lemon-poppy-seed-muffins.jpg",
+    "elements": [
+        {
+            "image": "img/product-flour.png",
+            "link": "/page-1"
+        },
+        {
+            "image": "img/product-baking-powder.png",
+            "link": "/page-2"
+        },
+        {
+            "image": "img/product-poppy-seeds.png",
+            "link": "/page-3"
+        },
+        {
+            "image": "img/product-lemon-zest.png",
+            "link": "/page-4"
+        },
+        {
+            "image": "img/product-vanilla-extract.png",
+            "link": "/page-5"
+        },
+        {
+            "image": "img/product-granulated-sugar.png",
+            "link": "/page-6"
+        },
+        {
+            "image": "img/product-baking-soda.png",
+            "link": "/page-7"
+        }
+    ],
+    "shapes": [
+        {
+            "image": "img/ingredient-butter.png",
+            "label": "butter"
+        },
+        {
+            "image": "img/ingredient-greek-yogurt.png",
+            "label": "greek yogurt"
+        },
+        {
+            "image": "img/ingredient-lemon-juice.png",
+            "label": "lemon juice"
+        },
+        {
+            "image": "img/ingredient-salt.png",
+            "label": "pinch of salt"
+        },
+        {
+            "image": "img/ingredient-eggs.png",
+            "label": "eggs"
+        }
+    ],
+    "router":[{
+            "start" : 1,
+            "end"   : 4
+        },
+        {
+            "start" : 1,
+            "end"   : 9
+        },
+        {
+            "start": 2,
+            "end"  : 7
+        }
+    ]
+}
